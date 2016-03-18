@@ -1,2 +1,2 @@
 # local
-Local project
+Java basic projects
